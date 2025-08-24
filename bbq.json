@@ -1,0 +1,92 @@
+[
+  {
+    "gerecht": "Ribbetjes",
+    "type": "vlees",
+    "gewicht_gram": 1200,
+    "bereiding": {
+      "marinade": "honing-mosterd",
+      "bereidingstijd_min": 90,
+      "sausjes": {
+        "hoofdsmaak": "BBQ classic",
+        "extra_opties": ["knoflooksaus", "pikante saus"]
+      }
+    },
+    "serveertijd": "2025-07-20T19:20:00Z",
+    "rating": 5
+  },
+  {
+    "gerecht": "Gegrilde groenten",
+    "type": "vegetarisch",
+    "gewicht_gram": 800,
+    "bereiding": {
+      "marinade": "olijfolie en kruiden",
+      "bereidingstijd_min": 20,
+      "sausjes": {
+        "hoofdsmaak": "tzatziki",
+        "extra_opties": ["hummus", "salsa verde"]
+      }
+    },
+    "serveertijd": "2025-08-02T18:15:00Z",
+    "rating": 4
+  },
+  {
+    "gerecht": "Hamburger",
+    "type": "vlees",
+    "gewicht_gram": 180,
+    "bereiding": {
+      "marinade": "natuur",
+      "bereidingstijd_min": 12,
+      "sausjes": {
+        "hoofdsmaak": "mayonaise",
+        "extra_opties": ["ketchup", "BBQ smoky", "cocktailsaus"]
+      }
+    },
+    "serveertijd": "2025-08-01T19:15:00Z",
+    "rating": 5
+  },
+  {
+    "gerecht": "Zalm op de grill",
+    "type": "vis",
+    "gewicht_gram": 500,
+    "bereiding": {
+      "marinade": "citroen-dille",
+      "bereidingstijd_min": 25,
+      "sausjes": {
+        "hoofdsmaak": "dillesaus",
+        "extra_opties": ["citroenboter", "yoghurt-kruiden"]
+      }
+    },
+    "serveertijd": "2025-07-14T19:15:00Z",
+    "rating": 3
+  },
+  {
+    "gerecht": "BBQ Kipdrumsticks",
+    "type": "vlees",
+    "gewicht_gram": 900,
+    "bereiding": {
+      "marinade": "pikante marinade",
+      "bereidingstijd_min": 40,
+      "sausjes": {
+        "hoofdsmaak": "pikante BBQ",
+        "extra_opties": ["sweet chili", "looksaus"]
+      }
+    },
+    "serveertijd": "2025-08-12T19:45:00Z",
+    "rating": 4
+  },
+  {
+    "gerecht": "Maiskolven",
+    "type": "vegetarisch",
+    "gewicht_gram": 600,
+    "bereiding": {
+      "marinade": "boter en kruiden",
+      "bereidingstijd_min": 15,
+      "sausjes": {
+        "hoofdsmaak": "kruidenboter",
+        "extra_opties": ["chilipoeder", "parmezaan"]
+      }
+    },
+    "serveertijd": "2025-07-19T19:20:00Z",
+    "rating": 5
+  }
+]
