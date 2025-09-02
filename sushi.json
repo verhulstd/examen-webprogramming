@@ -1,0 +1,137 @@
+[
+  {
+    "naam": "Zalm Nigiri",
+    "categorie": "vis",
+    "gewichtGram": 120,
+    "details": {
+      "basis": "rijstazijn en suiker",
+      "tijdMinuten": 15,
+      "sauzen": {
+        "hoofdingredient": "sojasaus",
+        "opties": ["wasabi", "gember"]
+      }
+    },
+    "serverenOp": "2025-12-20T19:20:00Z",
+    "beoordeling": 5
+  },
+  {
+    "naam": "Avocado Maki",
+    "categorie": "vegetarisch",
+    "gewichtGram": 200,
+    "details": {
+      "basis": "nori en sushirijst",
+      "tijdMinuten": 25,
+      "sauzen": {
+        "hoofdingredient": "sojasaus licht",
+        "opties": ["wasabi mayo", "sesamzaadjes"]
+      }
+    },
+    "serverenOp": "2025-08-02T18:15:00Z",
+    "beoordeling": 2.5
+  },
+  {
+    "naam": "Tuna Sashimi",
+    "categorie": "vis",
+    "gewichtGram": 100,
+    "details": {
+      "basis": "lichte sojasaus",
+      "tijdMinuten": 10,
+      "sauzen": {
+        "hoofdingredient": "ponzu",
+        "opties": ["wasabi", "daikon radijs"]
+      }
+    },
+    "serverenOp": "2025-08-01T19:15:00Z",
+    "beoordeling": 5
+  },
+  {
+    "naam": "Unagi Roll",
+    "categorie": "vis",
+    "gewichtGram": 250,
+    "details": {
+      "basis": "teriyaki glazuur",
+      "tijdMinuten": 30,
+      "sauzen": {
+        "hoofdingredient": "unagi saus",
+        "opties": ["sesamzaad", "lente-ui"]
+      }
+    },
+    "serverenOp": "2025-07-14T19:15:00Z",
+    "beoordeling": 3
+  },
+  {
+    "naam": "Chicken Teriyaki Roll",
+    "categorie": "vlees",
+    "gewichtGram": 220,
+    "details": {
+      "basis": "teriyaki",
+      "tijdMinuten": 35,
+      "sauzen": {
+        "hoofdingredient": "spicy mayo",
+        "opties": ["chilivlokken", "sesam mayo"]
+      }
+    },
+    "serverenOp": "2025-08-12T19:45:00Z",
+    "beoordeling": 2
+  },
+  {
+    "naam": "Poke Bowl Tofu",
+    "categorie": "vegetarisch",
+    "gewichtGram": 400,
+    "details": {
+      "basis": "soja-ginger dressing",
+      "tijdMinuten": 20,
+      "sauzen": {
+        "hoofdingredient": "sesamdressing",
+        "opties": ["siracha mayo", "wakame salade"]
+      }
+    },
+    "serverenOp": "2025-07-19T19:20:00Z",
+    "beoordeling": 1
+  },
+  {
+    "naam": "Salmon Sashimi",
+    "categorie": "vis",
+    "gewichtGram": 120,
+    "details": {
+      "basis": "lijst van kruiden",
+      "tijdMinuten": 15,
+      "sauzen": {
+        "hoofdingredient": "sojasaus licht",
+        "opties": ["wasabi", "gember"]
+      }
+    },
+    "serverenOp": "2025-12-20T19:25:00Z",
+    "beoordeling": 4
+  },
+  {
+    "naam": "Crunchy Roll",
+    "categorie": "vlees",
+    "gewichtGram": 280,
+    "details": {
+      "basis": "teriyaki",
+      "tijdMinuten": 35,
+      "sauzen": {
+        "hoofdingredient": "spicy mayo",
+        "opties": ["chilivlokken", "sesam mayo"]
+      }
+    },
+    "serverenOp": "2025-08-12T19:50:00Z",
+    "beoordeling": 3
+  },
+  {
+    "naam": "Tofu Teriyaki",
+    "categorie": "vegetarisch",
+    "gewichtGram": 300,
+    "details": {
+      "basis": "teriyaki",
+      "tijdMinuten": 25,
+      "sauzen": {
+        "hoofdingredient": "sesamdressing",
+        "opties": ["wakame salade", "rijstazijn"]
+      }
+    },
+    "serverenOp": "2025-07-16T19:15:00Z",
+    "beoordeling": 4
+  }
+]
